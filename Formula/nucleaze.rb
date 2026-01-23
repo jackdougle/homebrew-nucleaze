@@ -1,8 +1,8 @@
 class Nucleaze < Formula
   desc "Fast Rust DNA read filtering tool inspired by BBDuk"
   homepage "https://github.com/jackdougle/nucleaze"
-  url "https://github.com/jackdougle/nucleaze/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "2b19f5801cc862031ae04dc6256f83f94f6ec9266a8cc66386b82edabf40c1e9"
+  url "https://github.com/jackdougle/nucleaze/archive/refs/tags/v1.4.1.tar.gz"
+  sha256 "7403f8e018cf684d876dd4300c496919a8e77b978b1e503f0534483dbdb14d9f"
   license "MIT"
 
   depends_on "rust" => :build
